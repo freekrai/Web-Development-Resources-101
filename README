@@ -4,10 +4,12 @@ This git repo is intended to be an all in one package for my own Web Development
 
 To that end I built this one morning. Feel free to use it for any personal or commercial project and no you don't need to reference me. I'm really only bundling free resources anyway.
 
+If you have some items that need to be added let me know.
+
 
 Version Hx
 
-1.0
+Version 1.0
 jQuery
 	1.3.2.min.js
 jQuery Plugins
@@ -19,3 +21,18 @@ Wordpress
 
 	Themes
 	My own Comienzo theme. See my other git repositories or the readme for a full description of its purpose.
+	
+	Plugins
+	All in One SEO Pack
+	Feedburner Feedsmith
+	Google Sitemap Generator
+	Google Website Optimizer for Wordpress
+	Maintainance Mode
+	Podcasting
+	Sociable
+	Stats
+	Subheading
+	Syntax Highlighter Evolved
+	Thumbnail for Excerpts
+	Wordpress Database Backup
+	WP-Pagenavi
