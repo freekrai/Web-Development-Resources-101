@@ -1,0 +1,21 @@
+Web Development Resources 101
+
+This git repo is intended to be an all in one package for my own Web Development. I develop online and offline so while I normally load jQuery from Google Code I also may need to load it from an archive of jQuery if I am developing offline for a few days while I travel.
+
+To that end I built this one morning. Feel free to use it for any personal or commercial project and no you don't need to reference me. I'm really only bundling free resources anyway.
+
+
+Version Hx
+
+1.0
+jQuery
+	1.3.2.min.js
+jQuery Plugins
+	jquery.validate.min.js
+
+Wordpress
+	Versions
+	2.8.5
+
+	Themes
+	My own Comienzo theme. See my other git repositories or the readme for a full description of its purpose.
